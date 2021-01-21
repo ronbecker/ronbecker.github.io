@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/projects/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-01-20T22:55:37-06:00</updated>
+  <id>http://localhost:4000/tag/projects/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Ron Becker | </title>
+  
+
+  
+    <subtitle>SysAdmin, CyberSec, Web Development, and more.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">journ - CLI Journaling and Note Taking Program</title>
+      <link href="http://localhost:4000/journ-cli-jounal" rel="alternate" type="text/html" title="journ - CLI Journaling and Note Taking Program" />
+      <published>2021-01-20T04:00:00-06:00</published>
+      <updated>2021-01-20T04:00:00-06:00</updated>
+      <id>http://localhost:4000/journ-cli-jounal</id>
+      <content type="html" xml:base="http://localhost:4000/journ-cli-jounal">&lt;h2 id=&quot;what-is-journ&quot;&gt;What is journ?&lt;/h2&gt;
+
+&lt;p&gt;Short and sweet? journ is a command line journal written in Python. journ is completely run in your terminal. To use it after installing, just type journ in your terminal, and hit enter. Currently journ only uses the file journ.txt that it creates the first time you run it. In the future I want to add the ability to choose where you want your file, and what you want to name it. journ will append each new entry to the bottom of your journal file, along with the date and time the entry was created.&lt;/p&gt;
+
+&lt;h3 id=&quot;changelog&quot;&gt;Changelog&lt;/h3&gt;
+
+&lt;p&gt;You can view the &lt;a href=&quot;https://github.com/ronbecker/journ/blob/master/CHANGELOG.md&quot;&gt;changelog&lt;/a&gt; on Github.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ron Becker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Projects" />
+      
+
+      
+        <summary type="html">What is journ?</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

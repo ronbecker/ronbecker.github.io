@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/tag/news-and-updates/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-01-20T22:55:37-06:00</updated>
+  <id>http://localhost:4000/tag/news-and-updates/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Ron Becker | </title>
+  
+
+  
+    <subtitle>SysAdmin, CyberSec, Web Development, and more.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Hello, world!</title>
+      <link href="http://localhost:4000/welcome" rel="alternate" type="text/html" title="Hello, world!" />
+      <published>2021-01-18T04:00:00-06:00</published>
+      <updated>2021-01-18T04:00:00-06:00</updated>
+      <id>http://localhost:4000/welcome</id>
+      <content type="html" xml:base="http://localhost:4000/welcome">&lt;h2 id=&quot;youre-probably-wondering-where-the-hell-youve-ended-up&quot;&gt;You’re probably wondering where the hell you’ve ended up.&lt;/h2&gt;
+
+&lt;p&gt;And that’s a very, very good question. Now is your chance to run off to Google, or Reddit. Go ahead.&lt;/p&gt;
+
+&lt;p&gt;Oh, you actually stuck around? I’m sorry… now you are doomed to reading this garbage. Well, since you’re here I may as well explain who I am, and what I plan to do around here.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-name-is-ron-becker&quot;&gt;My name is Ron Becker&lt;/h3&gt;
+&lt;p&gt;And, I love to learn about, talk about, and share information about a variety of fields. You may run across posts covering everything from CyberSec, SysAdmin, Linux, Web Development, and more. My interests, and hobbies are luckily pretty varied. Unlike my skill set… I have been working with computers, coding, and various IT and SysAdmin jobs for the last 12 years or so. Surprisingly I still suck at it all, and don’t know very much. But, this blog is how I intend to change that. If I force myself to write about and use the knowledge I gather I hope that it will “stick” a little better, and I will get better at putting it into practice.&lt;/p&gt;
+
+&lt;p&gt;I hope that something in here will help you, or someone you know on their journey to learn more as well!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ron Becker</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="News and Updates" />
+      
+
+      
+        <summary type="html">You’re probably wondering where the hell you’ve ended up.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
