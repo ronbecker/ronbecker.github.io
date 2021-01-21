@@ -23,6 +23,22 @@
     
       
       <item>
+        <title>Please Be Patient</title>
+        
+          <description>&lt;h2 id=&quot;we-are-doing-a-bit-of-a-remodel&quot;&gt;We are doing a bit of a remodel&lt;/h2&gt;
+&lt;p&gt;And, I really hope that you can be patient with it. I have grabbed a new Jekyll theme based on the default theme for ghost. And, it’s amazing! But, it does take a little effort to get the hang of. For me at least.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Jan 2021 04:00:00 -0600</pubDate>
+        <link>
+        http://localhost:4000/please-be-patient</link>
+        <guid isPermaLink="true">http://localhost:4000/please-be-patient</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Hello, world!</title>
         
           <description>&lt;h2 id=&quot;youre-probably-wondering-where-the-hell-youve-ended-up&quot;&gt;You’re probably wondering where the hell you’ve ended up.&lt;/h2&gt;
