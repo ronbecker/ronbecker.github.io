@@ -34,7 +34,7 @@
     <![endif]-->
     
     <!-- This tag outputs SEO meta+structured data and other important settings -->
-    <meta name="description" content="SysAdmin, CyberSec, Web Development, and more." />
+    <meta name="description" content="CyberSec, SysAdmin, DevOps, and more." />
     <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.png" type="image/png" />
     <link rel="canonical" href="http://localhost:4000/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -43,15 +43,15 @@
     <meta property="og:site_name" content="Ron Becker" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Ron Becker" />
-    <meta property="og:description" content="SysAdmin, CyberSec, Web Development, and more." />
+    <meta property="og:description" content="CyberSec, SysAdmin, DevOps, and more." />
     <meta property="og:url" content="http://localhost:4000/" />
-    <meta property="og:image" content="http://localhost:4000/" />
+    <meta property="og:image" content="http://localhost:4000/assets/images/black.png" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Ron Becker" />
-    <meta name="twitter:description" content="SysAdmin, CyberSec, Web Development, and more." />
+    <meta name="twitter:description" content="CyberSec, SysAdmin, DevOps, and more." />
     <meta name="twitter:url" content="http://localhost:4000/" />
-    <meta name="twitter:image" content="http://localhost:4000/" />
+    <meta name="twitter:image" content="http://localhost:4000/assets/images/black.png" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Ron Becker" />
     <meta name="twitter:site" content="@TheRonBecker" />
@@ -71,7 +71,7 @@
     "url": "http://localhost:4000/",
     "image": {
         "@type": "ImageObject",
-        "url": "http://localhost:4000/",
+        "url": "http://localhost:4000/assets/images/black.png",
         "width": 2000,
         "height": 666
     },
@@ -79,7 +79,7 @@
         "@type": "WebPage",
         "@id": "http://localhost:4000/"
     },
-    "description": "SysAdmin, CyberSec, Web Development, and more."
+    "description": "CyberSec, SysAdmin, DevOps, and more."
 }
     </script>
 
@@ -105,7 +105,7 @@
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer no-cover">
+<header class="site-header outer " style="background-image:  url(/assets/images/black.png) ">
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">
@@ -113,7 +113,7 @@ into the {body} of the default.hbs template -->
                     <img class="site-logo" src="/assets/images/blog-icon.png" alt="Ron Becker"/>
                 
             </h1>
-            <h2 class="site-description">SysAdmin, CyberSec, Web Development, and more.</h2>
+            <h2 class="site-description">CyberSec, SysAdmin, DevOps, and more.</h2>
         </div>
         <nav class="site-nav">
     <div class="site-nav-left">
@@ -122,8 +122,8 @@ into the {body} of the default.hbs template -->
             <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>
-   <!--  <li class="nav-getting-started" role="menuitem"><a href="/tag/getting-started/">Getting Started</a></li>
-   <li class="nav-try-ghost" role="menuitem"><a href="https://ghost.org">Try Ghost</a></li> -->
+    <!-- <li class="nav-getting-started" role="menuitem"><a href="/tag/getting-started/">Getting Started</a></li>
+    <li class="nav-try-ghost" role="menuitem"><a href="https://ghost.org">Try Ghost</a></li> -->
 </ul>
 
         
@@ -154,12 +154,51 @@ into the {body} of the default.hbs template -->
 
     <article class="post-card home-template">
         
-            <a class="post-card-image-link" href="/journ-cli-jounal">
+            <a class="post-card-image-link" href="/garuda-linux-is-the=answer">
+                <div class="post-card-image" style="background-image: url(/assets/images/garuda-linux.png)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/garuda-linux-is-the=answer">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Linux</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">Garuda Linux is the Answer to Everything</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>I will admit I have a distro addiction. I change my Linux distro more often than most people change their underwear. There is always something new to try, or that catches my eye.</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+    <article class="post-card home-template">
+        
+            <a class="post-card-image-link" href="/journ-cli-journaling-and-notes">
                 <div class="post-card-image" style="background-image: url(/assets/images/journ.png)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/journ-cli-jounal">
+            <a class="post-card-content-link" href="/journ-cli-journaling-and-notes">
                 <header class="post-card-header">
                     
                         
@@ -169,7 +208,7 @@ into the {body} of the default.hbs template -->
                         
                     
 
-                    <h2 class="post-card-title">journ - CLI Journaling and Note Taking Program</h2>
+                    <h2 class="post-card-title">journ - CLI Journaling and Notes</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
@@ -181,13 +220,6 @@ into the {body} of the default.hbs template -->
             </a>
             <footer class="post-card-meta">
                 
-                    
-                        
-                        <img class="author-profile-image" src="/assets/images/ghost.png" alt="Ron Becker" />
-                        
-                        <span class="post-card-author">
-                            <a href="/author/ronbecker/">Ron Becker</a>
-                        </span>
                     
                 
                 <span class="reading-time">
@@ -221,19 +253,14 @@ into the {body} of the default.hbs template -->
                 </header>
                 <section class="post-card-excerpt">
                     
-                        <p>We are doing a bit of a remodel And, I really hope that you can be patient with it. I have grabbed a new Jekyll theme based on the default theme for ghost.</p>
+                        <p>We are doing a bit of a remodel
+
+</p>
                     
                 </section>
             </a>
             <footer class="post-card-meta">
                 
-                    
-                        
-                        <img class="author-profile-image" src="/assets/images/ghost.png" alt="Ron Becker" />
-                        
-                        <span class="post-card-author">
-                            <a href="/author/ronbecker/">Ron Becker</a>
-                        </span>
                     
                 
                 <span class="reading-time">
@@ -263,7 +290,7 @@ into the {body} of the default.hbs template -->
                         
                     
 
-                    <h2 class="post-card-title">Hello, world!</h2>
+                    <h2 class="post-card-title">Hello, World!</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
@@ -275,13 +302,6 @@ into the {body} of the default.hbs template -->
             </a>
             <footer class="post-card-meta">
                 
-                    
-                        
-                        <img class="author-profile-image" src="/assets/images/ghost.png" alt="Ron Becker" />
-                        
-                        <span class="post-card-author">
-                            <a href="/author/ronbecker/">Ron Becker</a>
-                        </span>
                     
                 
                 <span class="reading-time">
