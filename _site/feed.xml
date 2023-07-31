@@ -5,8 +5,8 @@
     <description>Just Another Geek on the Internet!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2023 01:03:18 -0500</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2023 01:03:18 -0500</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2023 01:08:08 -0500</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 01:08:08 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -32,7 +32,7 @@ Each Mastodon server is a completely independent instance. They are all able to 
 &lt;p&gt;To get started using Mastodon all you need to do is visit the main site, &lt;a href=&quot;https://joinmastodon.org&quot;&gt;here&lt;/a&gt;. Here you can create an account, get one of the many apps that work with mastodon, or learn more about it, and how it works.&lt;/p&gt;
 
 &lt;h4 id=&quot;in-conclusion&quot;&gt;In Conclusion&lt;/h4&gt;
-&lt;p&gt;If you want an alternative to Twitter, or other microblogging platforms, and you are concered about privacy there is currently no better option on the market. You will not have to worry about Mastodon collecting your private information, or filling your feed with ads. While you are there maybe check out other Fediverse alternatives. Such as two fantastic Reddit alterantives -&lt;a href=&quot;https://kbin.pub/&quot;&gt;kbin&lt;/a&gt;. and &lt;a href=&quot;https://join-lemmy.org/&quot;&gt;lemmy&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;If you want an alternative to Twitter, or other microblogging platforms, and you are concered about privacy there is currently no better option on the market. You will not have to worry about Mastodon collecting your private information, or filling your feed with ads. While you are there maybe check out other Fediverse alternatives. Such as two fantastic Reddit alterantives - &lt;a href=&quot;https://kbin.pub/&quot;&gt;kbin&lt;/a&gt;. and &lt;a href=&quot;https://join-lemmy.org/&quot;&gt;lemmy&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://joinmastodon.org&quot;&gt;&lt;img src=&quot;/assets/images/mastodon-logo.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
