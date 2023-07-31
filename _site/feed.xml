@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Just Another Geek on the Internet!</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Jul 2023 00:55:53 -0500</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 00:55:53 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>What is Mastodon, And Why Should I Use It?</title>
+        <description>&lt;h3 id=&quot;what-is-mastodon&quot;&gt;What is Mastodon?&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://joinmastodon.org/&quot;&gt;Mastodon&lt;/a&gt; is a decentralized, federated social network, and an alternative to sites like Twitter. A federated site is one that is split across many, smaller sites that are all linked together. When you sign up on one site you can make friends with people, and see what they share and post on other sites. Being decentralized means that it is not all held in one place, or ran by one person or corporation.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-use-mastodon&quot;&gt;Why use Mastodon?&lt;/h4&gt;
+&lt;p&gt;Many people have become disenfranchised with popular social media platforms such as Twitter, Facebook, and Reddit. With how much advertisement, and invasion of your privacy there is no wonder people are flocking to alterantives on the &lt;a href=&quot;https://www.fediverse.to/&quot;&gt;Fediverse&lt;/a&gt;. Mastodon is a very popular, and federated Twitter alternative. And we thought we we go over some of the pros to switching to it.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Source
+Mastodon is a free and open source software. You can find its source code &lt;a href=&quot;https://github.com/mastodon/mastodon&quot;&gt;here&lt;/a&gt;. You can host your own instance of Mastodon, and make it work, and function the way you want it to. Or, you can join an active instance and help contribute through reporting bugs or issues, and even by contributing the to the code if you are so inclined.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Decentralized
+Each Mastodon server is a completely independent instance. They are all able to interoperate with each other to form a global social network. However, if one instance goes down it does not stop Mastodon, as a whole, from functioning and continuing to move forward.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;how-do-i-get-started-using-mastodon&quot;&gt;How do I get started using Mastodon?&lt;/h4&gt;
+&lt;p&gt;To get started using Mastodon all you need to do is visit the main site, &lt;a href=&quot;https://joinmastodon.org&quot;&gt;here&lt;/a&gt;. Here you can create an account, get one of the many apps that work with mastodon, or learn more about it, and how it works.&lt;/p&gt;
+
+&lt;h4 id=&quot;in-conclusion&quot;&gt;In Conclusion&lt;/h4&gt;
+&lt;p&gt;If you want an alternative to Twitter, or other microblogging platforms, and you are concered about privacy there is currently no better option on the market. You will not have to worry about Mastodon collecting your private information, or filling your feed with ads. While you are there maybe check out other Fediverse alternatives. Such as two fantastic Reddit alterantives -&lt;a href=&quot;https://kbin.pub/&quot;&gt;kbin&lt;/a&gt;. and &lt;a href=&quot;https://join-lemmy.org/&quot;&gt;lemmy&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://joinmastodon.org&quot;&gt;&lt;img src=&quot;/assets/images/mastodon-logo.png&quot; alt=&quot;Alt text&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Jul 2023 12:47:20 -0500</pubDate>
+        <link>http://localhost:4000/opensource/socialmedia/fediverse/2023/07/25/what-is-mastodon-and-why-should-i-use-it.html</link>
+        <guid isPermaLink="true">http://localhost:4000/opensource/socialmedia/fediverse/2023/07/25/what-is-mastodon-and-why-should-i-use-it.html</guid>
+        
+        
+        <category>OpenSource</category>
+        
+        <category>SocialMedia</category>
+        
+        <category>Fediverse</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello, World!</title>
+        <description>&lt;h3 id=&quot;lets-kick-this-off-right&quot;&gt;Lets kick this off right!&lt;/h3&gt;
+&lt;p&gt;This is a fresh start for a very old, and rarely used blog I had, here, on GitHub Pages. There isn’t a set format just yet, but we will figure that out as we go. I hope you enjoy your time here, and can gain something useful from your visit(s)!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Jul 2023 12:47:20 -0500</pubDate>
+        <link>http://localhost:4000/updates/2023/07/24/hello-world.html</link>
+        <guid isPermaLink="true">http://localhost:4000/updates/2023/07/24/hello-world.html</guid>
+        
+        
+        <category>Updates</category>
+        
+      </item>
+    
+  </channel>
+</rss>
