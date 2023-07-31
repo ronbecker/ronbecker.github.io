@@ -1,0 +1,19 @@
+name: Ron Becker
+description: Just Another Geek on the Internet.
+meta_description: "Personal blog of another internet geek."
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl:
+domain_name: "http://ronbecker.github.io"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Ron Becker"
+
+# Disqus config
+disqus-shortname: "sparrowhawkproject"
