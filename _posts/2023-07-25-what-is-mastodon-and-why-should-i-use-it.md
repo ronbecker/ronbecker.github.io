@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Mastodon, And Why Should I Use It?"
-date:   2023-07-22 12:47:20 -0500
+date:   2023-07-25 12:47:20 -0500
 categories: OpenSource SocialMedia Fediverse
 ---
 ### What is Mastodon?
