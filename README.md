@@ -1,3 +1,3 @@
-# GitHub Pages Site for the Sparrowhawk Project
+# GitHub Pages Site for my personal blog
 
-Official blog for the Sparrowhawk Project.
+Just my personal blog.

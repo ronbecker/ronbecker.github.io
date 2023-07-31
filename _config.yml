@@ -1,13 +1,13 @@
 name: Ron Becker
-description: Just Another Geek on the Internet.
-meta_description: "Personal blog of another internet geek."
+description: Just Another Geek on the Internet!
+meta_description: "The personal blog of another geek on the internet."
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
 baseurl:
-domain_name: "http://ronbecker.github.io"
+domain_name: "http://sparrowharkproject.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
@@ -16,4 +16,4 @@ url: ""
 author: "Ron Becker"
 
 # Disqus config
-disqus-shortname: "sparrowhawkproject"
+disqus-shortname: "theronbecker"
