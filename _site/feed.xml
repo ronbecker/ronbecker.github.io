@@ -5,9 +5,23 @@
     <description>Just Another Geek on the Internet!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2023 00:55:53 -0500</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2023 00:55:53 -0500</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2023 01:01:25 -0500</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 01:01:25 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>This is Just a Test</title>
+        <description>&lt;h3 id=&quot;is-this-thing-working&quot;&gt;Is this thing working?&lt;/h3&gt;
+&lt;p&gt;Testing, testing, 123… testing, testing, 123.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Jul 2023 12:47:20 -0500</pubDate>
+        <link>http://localhost:4000/test/2023/07/30/test-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/test/2023/07/30/test-post.html</guid>
+        
+        
+        <category>Test</category>
+        
+      </item>
     
       <item>
         <title>What is Mastodon, And Why Should I Use It?</title>
